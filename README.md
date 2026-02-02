@@ -1,29 +1,113 @@
-<h1>Hi 👋, I'm Irfan Maulana Nur Hasim</h1>
-<p>Software Engineering Student | Frontend Developer & Junior Web Developer</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/irfan-maulana-nur-hasim-2b9614252" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/lxfan_112/?hl=id" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenaroc&" alt="kenaroc" /></p>
+<h1 align="center">Hi 👋, I'm Irfan Maulana Nur Hasim</h1>
+<h3 align="center">Student IT | Software Engineering | Front-End Focused</h3>
+
+<p align="center">
+  <a href="https://github.com/kenaroc">
+    <img src="https://img.shields.io/github/followers/kenaroc?label=Follow&style=for-the-badge" />
+  </a>
+  <a href="mailto:irfannurmaulana19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Saya **mahasiswa semester 5 Bisnis & Informatika** di **Politeknik Negeri Banyuwangi** dengan fokus utama pada  
+🎨 **Front-End Development & UI/UX**.
+
+Saya suka membangun antarmuka web yang:
+- modern & responsif  
+- fungsional dan efisien  
+- nyaman digunakan (good UX)  
+
+Saat ini aktif mengembangkan project berbasis **Laravel**, **REST API**, dan **web modern stack**.
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat-square&logo=visual-studio-code)
+
+### 📱 Mobile & Others
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
+
+---
+
+🧩 Featured Projects
+
+🏡 Dewitari Homestay – Web Booking System
+🔹 **Laravel, MySQL, Tailwind, Bootstrap**  
+🔹 Front-end dominant + sedikit back-end  
+🔹 Sistem pemesanan homestay real-time  
+🔹 Dashboard user & manajemen kamar  
+
+🌐 Live: https://tamansaritourism.id/homestays  
+📦 Repo: https://github.com/kenaroc  
+
+---
+
+💳 Cashier Management Application
+🔹 **Flutter, Dart, REST API, Laravel**  
+🔹 Aplikasi kasir & manajemen stok  
+🔹 Transaksi & laporan otomatis  
+
+📦 Repo: https://github.com/kenaroc  
+
+---
+
+🏫 Online School Registration System
+🔹 **Laravel, MySQL**  
+🔹 Sistem pendaftaran santri online  
+🔹 Manajemen data terpusat  
+
+📦 Repo: https://github.com/kenaroc  
+
+---
+
+📜 Certifications
+
+- ☁️ **AWS Cloud Practitioner Essentials** – Dicoding  
+- 🧠 **Basic Data Science** – Google Developers  
+- ⚙️ **Back-End JavaScript (Node.js)** – Dicoding  
+- 🌐 **Front-End Web Beginner** – Dicoding  
+- 🧾 **Junior Web Developer (BNSP)** – DTS Kominfo  
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenaroc&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenaroc&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+📫 Connect With Me
+
+- 📧 Email: **irfannurmaulana19@gmail.com**
+- 🌍 GitHub: **https://github.com/kenaroc**
+
+---
+
+<p align="center">
+  <i>"Build with passion, design with purpose."</i>
+</p>
