@@ -87,27 +87,10 @@ Saat ini aktif mengembangkan project berbasis **Laravel**, **REST API**, dan **w
 - 🧠 **Basic Data Science** – Google Developers  
 - ⚙️ **Back-End JavaScript (Node.js)** – Dicoding  
 - 🌐 **Front-End Web Beginner** – Dicoding  
-- 🧾 **Junior Web Developer (BNSP)** – DTS Kominfo  
-
----
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenaroc&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenaroc&layout=compact&theme=tokyonight" />
-</p>
-
+- 🧾 **Junior Web Developer (BNSP)** – DTS Kominfo 
 ---
 
 📫 Connect With Me
 
 - 📧 Email: **irfannurmaulana19@gmail.com**
 - 🌍 GitHub: **https://github.com/kenaroc**
-
----
-
-<p align="center">
-  <i>"Build with passion, design with purpose."</i>
-</p>
