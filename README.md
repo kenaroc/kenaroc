@@ -1,28 +1,230 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🐚%20Irfan's%20Aquarium&fontSize=50&fontColor=white&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Irfan+Maulana;Front-End+Developer;UI%2FUX+Enthusiast;Student+%26+Creator" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=%F0%9F%90%9F+Welcome+to+my+Aquarium!;%F0%9F%8E%A8+Front-End+Developer;%F0%9F%90%A0+UI%2FUX+Designer;%F0%9F%8C%8A+Diving+into+Code" alt="Typing SVG" />
-</div>
+<h1 align="center">Irfan Maulana Nur Hasim</h1>
+<h3 align="center">🎨 Front-End Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenaroc&label=🐠%20Aquarium%20Visitors&color=00BFFF&style=flat-square" />
+  <img src="https://img.shields.io/badge/Student-Bisnis%20%26%20Informatika-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Front--End%20Development-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-F24E1E?style=for-the-badge&logo=figma" />
+</p>
+
+<p align="center">
+  <a href="mailto:irfannurmaulana19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-irfannurmaulana19%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/kenaroc">
-    <img src="https://img.shields.io/github/followers/kenaroc?label=🐟%20Fish%20Friends&style=social" />
+    <img src="https://img.shields.io/github/followers/kenaroc?label=Follow&style=social" />
+  </a>
+  <a href="https://lxrfan-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🐠 My Aquarium Story
+## 👨‍💻 About Me
 
-```javascript
-const irfan = {
-  species: "Front-End Developer",
-  habitat: "Politeknik Negeri Banyuwangi",
-  diet: ["React", "Next.js", "Tailwind", "UI/UX"],
-  swimsIn: ["JavaScript", "PHP", "Laravel"],
-  specialAbility: "Turning designs into interactive experiences",
-  status: "🐡 Swimming in code, creating beautiful interfaces"
-}
+Saya **Irfan Maulana Nur Hasim**, mahasiswa semester 6 jurusan **Bisnis dan Informatika** di **Politeknik Negeri Banyuwangi**. 
+
+> *"Kode front-end yang baik bukan hanya tentang tampilan, tapi tentang performa, keterbacaan, dan kejelasan interaksi."*
+
+🎯 **Fokus Utama:**
+- ✨ Membangun antarmuka web yang cepat, bersih, dan responsif
+- 🎨 Mendesain pengalaman pengguna yang intuitif dan menarik
+- 🚀 Mengimplementasikan UI/UX Design dalam proyek nyata
+
+💡 **Kemampuan:**
+- Menguasai **Next.js, React, Tailwind CSS, dan UI/UX Design**
+- Berpengalaman dalam membangun dashboard admin, platform digital, dan sistem real-time
+- Mampu berkolaborasi lintas tim untuk menghasilkan produk digital yang berdampak
+
+---
+
+## 🎨 Front-End Focus
+
+<div align="center">
+  <h3>Core Frontend Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,js" />
+  </p>
+  
+  <h3>Styling & UI</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,figma" />
+  </p>
+  
+  <h3>Full Stack Support</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb" />
+  </p>
+  
+  <h3>Tools & Deployment</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws" />
+  </p>
+</div>
+
+---
+
+## 🚀 Featured Front-End Projects
+
+### 🌟 Sistem MLM Jaringan Matahari
+> **Full Stack Developer** (Magang Mandiri Semester 6 - 2026)
+
+Membangun sistem MLM digital modern dengan dashboard admin dan user real-time.
+
+**✨ Frontend:** Next.js, React, Tailwind CSS, Bootstrap, Lucide Icons  
+**🔧 Backend:** NextAuth, MongoDB, Cloudinary
+
+<div align="center">
+  <a href="https://github.com/kenaroc">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🌐 Owdigi - Platform Layanan Digital
+> **Full Stack Developer** (Client Project - 2025)
+
+Platform digital dengan marketplace, manajemen paket langganan, dashboard admin & reseller.
+
+**✨ Frontend:** Vite, Tailwind CSS v4, Alpine.js, ApexCharts, FullCalendar  
+**🔧 Backend:** PHP 8.2, Laravel 12, MySQL
+
+<div align="center">
+  <a href="https://github.com/kenaroc">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🏡 Dewitari Homestay
+> **Front-end & Back-end** (Group Project - 2025)
+
+Sistem pemesanan homestay berbasis web dengan manajemen kamar real-time.
+
+**✨ Frontend:** TailwindCSS, Bootstrap, JavaScript  
+**🔧 Backend:** PHP Laravel, MySQL
+
+<div align="center">
+  <a href="https://tamansaritourism.id/homestays">
+    <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/kenaroc">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🏫 PPDB Ma'had Amanatullah
+> **Full Stack Developer** (Client Project - 2024)
+
+Website profil & sistem pendaftaran online untuk digitalisasi PPDB.
+
+**✨ Frontend:** TailwindCSS, Bootstrap, JavaScript  
+**🔧 Backend:** PHP Laravel, MySQL
+
+<div align="center">
+  <a href="https://github.com/kenaroc">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h4>🎯 Frontend & Web</h4>
+        <ul>
+          <li>Junior Web Developer (BNSP) - 2024</li>
+          <li>Belajar Membuat Front-End Web untuk Pemula - 2025</li>
+          <li>Belajar Dasar Pemrograman Web - 2024</li>
+          <li>Belajar Dasar Pemrograman JavaScript - 2024</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h4>🤖 AI & Data Science</h4>
+        <ul>
+          <li>Prompt Engineering untuk Software Developer - 2026</li>
+          <li>Belajar Dasar AI - 2025</li>
+          <li>Belajar Machine Learning untuk Pemula - 2025</li>
+          <li>Belajar Dasar Data Science - 2025</li>
+          <li>AI Praktis untuk Produktivitas - 2025</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4>📊 Data & Database</h4>
+        <ul>
+          <li>Belajar Fundamental Pemrosesan Data - 2025</li>
+          <li>Belajar Dasar SQL - 2025</li>
+          <li>Belajar Dasar Visualisasi Data - 2025</li>
+          <li>Belajar Penerapan Data Science dengan Microsoft Fabric - 2025</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h4>☁️ Cloud & Backend</h4>
+        <ul>
+          <li>Cloud Practitioner Essentials (AWS) - 2025</li>
+          <li>Belajar Back-End Pemula dengan JavaScript - 2025</li>
+          <li>Membangun Aplikasi Gen AI dengan Microsoft Azure - 2025</li>
+          <li>Memulai Pemrograman Dengan Java - 2025</li>
+          <li>Memulai Pemrograman dengan Python - 2025</li>
+          <li>Belajar Penggunaan Generative AI - 2025</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenaroc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kenaroc&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenaroc&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/irfan-maulana-499a47288/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kenaroc">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/irfanmaulana_19">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:irfannurmaulana19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://lxrfan-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
