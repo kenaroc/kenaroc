@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Irfan+Maulana;Front-End+Developer;UI%2FUX+Enthusiast;Student+%26+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Irfan+Maulana+Nur+Hasim;Front-End+Developer;UI%2FUX+Enthusiast;Student+%26+Creator" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Irfan Maulana Nur Hasim</h1>
@@ -28,8 +28,6 @@
 ## 👨‍💻 About Me
 
 Saya **Irfan Maulana Nur Hasim**, mahasiswa semester 6 jurusan **Bisnis dan Informatika** di **Politeknik Negeri Banyuwangi**. 
-
-> *"Kode front-end yang baik bukan hanya tentang tampilan, tapi tentang performa, keterbacaan, dan kejelasan interaksi."*
 
 🎯 **Fokus Utama:**
 - ✨ Membangun antarmuka web yang cepat, bersih, dan responsif
@@ -67,126 +65,7 @@ Saya **Irfan Maulana Nur Hasim**, mahasiswa semester 6 jurusan **Bisnis dan Info
   </p>
 </div>
 
----
 
-## 🚀 Featured Front-End Projects
-
-### 🌟 Sistem MLM Jaringan Matahari
-> **Full Stack Developer** (Magang Mandiri Semester 6 - 2026)
-
-Membangun sistem MLM digital modern dengan dashboard admin dan user real-time.
-
-**✨ Frontend:** Next.js, React, Tailwind CSS, Bootstrap, Lucide Icons  
-**🔧 Backend:** NextAuth, MongoDB, Cloudinary
-
-<div align="center">
-  <a href="https://github.com/kenaroc">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 🌐 Owdigi - Platform Layanan Digital
-> **Full Stack Developer** (Client Project - 2025)
-
-Platform digital dengan marketplace, manajemen paket langganan, dashboard admin & reseller.
-
-**✨ Frontend:** Vite, Tailwind CSS v4, Alpine.js, ApexCharts, FullCalendar  
-**🔧 Backend:** PHP 8.2, Laravel 12, MySQL
-
-<div align="center">
-  <a href="https://github.com/kenaroc">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 🏡 Dewitari Homestay
-> **Front-end & Back-end** (Group Project - 2025)
-
-Sistem pemesanan homestay berbasis web dengan manajemen kamar real-time.
-
-**✨ Frontend:** TailwindCSS, Bootstrap, JavaScript  
-**🔧 Backend:** PHP Laravel, MySQL
-
-<div align="center">
-  <a href="https://tamansaritourism.id/homestays">
-    <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/kenaroc">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 🏫 PPDB Ma'had Amanatullah
-> **Full Stack Developer** (Client Project - 2024)
-
-Website profil & sistem pendaftaran online untuk digitalisasi PPDB.
-
-**✨ Frontend:** TailwindCSS, Bootstrap, JavaScript  
-**🔧 Backend:** PHP Laravel, MySQL
-
-<div align="center">
-  <a href="https://github.com/kenaroc">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h4>🎯 Frontend & Web</h4>
-        <ul>
-          <li>Junior Web Developer (BNSP) - 2024</li>
-          <li>Belajar Membuat Front-End Web untuk Pemula - 2025</li>
-          <li>Belajar Dasar Pemrograman Web - 2024</li>
-          <li>Belajar Dasar Pemrograman JavaScript - 2024</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h4>🤖 AI & Data Science</h4>
-        <ul>
-          <li>Prompt Engineering untuk Software Developer - 2026</li>
-          <li>Belajar Dasar AI - 2025</li>
-          <li>Belajar Machine Learning untuk Pemula - 2025</li>
-          <li>Belajar Dasar Data Science - 2025</li>
-          <li>AI Praktis untuk Produktivitas - 2025</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h4>📊 Data & Database</h4>
-        <ul>
-          <li>Belajar Fundamental Pemrosesan Data - 2025</li>
-          <li>Belajar Dasar SQL - 2025</li>
-          <li>Belajar Dasar Visualisasi Data - 2025</li>
-          <li>Belajar Penerapan Data Science dengan Microsoft Fabric - 2025</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h4>☁️ Cloud & Backend</h4>
-        <ul>
-          <li>Cloud Practitioner Essentials (AWS) - 2025</li>
-          <li>Belajar Back-End Pemula dengan JavaScript - 2025</li>
-          <li>Membangun Aplikasi Gen AI dengan Microsoft Azure - 2025</li>
-          <li>Memulai Pemrograman Dengan Java - 2025</li>
-          <li>Memulai Pemrograman dengan Python - 2025</li>
-          <li>Belajar Penggunaan Generative AI - 2025</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -221,10 +100,4 @@ Website profil & sistem pendaftaran online untuk digitalisasi PPDB.
   <a href="https://lxrfan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
