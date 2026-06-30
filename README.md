@@ -190,7 +190,7 @@ Website profil & sistem pendaftaran online untuk digitalisasi PPDB.
 
 ---
 
-## 🎯 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenaroc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
@@ -199,16 +199,6 @@ Website profil & sistem pendaftaran online untuk digitalisasi PPDB.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenaroc&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<div align="center">
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@kenaroc/0a1b2c3d-4e5f-6789-0abc-def123456789.svg" height="250" />
-  </a>
 </div>
 
 ---
@@ -237,8 +227,4 @@ Website profil & sistem pendaftaran online untuk digitalisasi PPDB.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <h4>✨ "Crafting beautiful interfaces, building amazing experiences" ✨</h4>
 </div>
