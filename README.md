@@ -223,8 +223,3 @@ Website profil & sistem pendaftaran online untuk digitalisasi PPDB.
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
